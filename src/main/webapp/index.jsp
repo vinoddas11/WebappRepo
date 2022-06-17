@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello GITLAB</h2>
+<h2>Hello GIT</h2>
 </body>
 </html>
