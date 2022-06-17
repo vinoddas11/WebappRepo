@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello TYSS</h2>
+<h2>Hello GITLAB</h2>
 </body>
 </html>
